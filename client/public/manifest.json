@@ -1,19 +1,19 @@
 {
-  "short_name": "Stack Underflow",
-  "name": "Stack Underflow | amand33p",
+  "short_name": "Kuizlo",
+  "name": "Kuizlo",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "logo.jpeg",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "logo256.png",
+      "src": "logo.jpeg",
       "type": "image/png",
       "sizes": "256x256"
     },
     {
-      "src": "logo512.png",
+      "src": "logo.jpeg",
       "type": "image/png",
       "sizes": "512x512"
     }
